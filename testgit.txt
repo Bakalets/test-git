@@ -1,3 +1,4 @@
 Hello world :)
 
 add to test merge conflict
+next add
