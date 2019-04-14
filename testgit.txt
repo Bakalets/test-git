@@ -7,3 +7,4 @@ text add
 
 test commit without add
  next change 1300
+test cherry-pick
